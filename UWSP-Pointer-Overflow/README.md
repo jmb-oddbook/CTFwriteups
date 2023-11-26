@@ -1,4 +1,4 @@
-# Pointer Overflow CTF
+# Pointer Overflow CTF -- 2023
 Website: https://pointeroverflowctf.com/
 
 *The University of Wisconsin - Stevens Point and the Department of Computing and New Media Technologies happily welcomes you to the Pointer Overflow CTF. This contest is a challenge of ingenuity and skill brought to you in honor of our incredible students and alumni.
